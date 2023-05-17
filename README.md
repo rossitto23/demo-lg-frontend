@@ -21,7 +21,7 @@ npm i
 npm run dev
 ```
  :warning: **Lancez d'abord le backend !**
-Repository du backend : 
+Repository du backend : [https://github.com/rossitto23/demo-lg-backend.git](https://github.com/rossitto23/demo-lg-backend.git)
 
 Lancez [http://localhost:8080](http://localhost:8080) dans un navigateur.
 
